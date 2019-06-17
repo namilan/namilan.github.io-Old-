@@ -37,12 +37,17 @@ b{
   
   #about {
     top: 20px;
-    background-color: #FAF2A1;
+    background-color: #453F78;
   }
   
   #project {
     top: 80px;
     background-color: #759AAB;
+  }
+
+  #contact {
+    top: 200px;
+    background-color: #FAF2A1;
   }
 
 

@@ -55,6 +55,13 @@
     font-size:40px;
     font-weight:300;
     line-height:40px;
+    font-size:12px;
+    top:40px;
+    background:#34495e;
+    width:200px;
+    position:absolute;
+    opacity:0;
 }
+
 
 

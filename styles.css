@@ -38,16 +38,15 @@ b{
   
   #about {
     top: 20px;
-    background-color: #453F78;
+    background-color: #3F2E56;
   }
   
   #projects {
-    top: 40px;
+    top: 80px;
+    background-color: #453F78;
+  }
+  
+  #contact {
+    top: 140px;
     background-color: #759AAB;
   }
-  
-  #contacts {
-    top: 60px;
-    background-color: #FAF2A1;
-  }
-  

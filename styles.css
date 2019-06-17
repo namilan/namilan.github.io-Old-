@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
 
-/* body{
+body{
   background:#ecf0f1;
   font-family: 'Open Sans', sans-serif;
 }
@@ -18,35 +18,33 @@ b{
   font-size:25px;
   line-height:40px;
   display:inline-block;
-} */
+}
 
-#mySidenav a {
-    position: absolute;
-    left: -80px;
-    transition: 0.3s;
-    padding: 15px;
-    width: 100px;
+ody {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
     color: white;
-    border-radius: 0 5px 5px 0;
-  }
-  
-  #mySidenav a:hover {
-    left: 0;
-  }
-  
-  #about {
-    top: 20px;
-    background-color: #3F2E56;
-  }
-  
-  #projects {
-    top: 80px;
-    background-color: #453F78;
-  }
-  
-  #contact {
-    top: 140px;
-    background-color: #759AAB;
   }

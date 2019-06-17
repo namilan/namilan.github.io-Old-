@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/*CSS Document */
+
+*{
+    margin:0;
+}
+
+#container{
+    width:960px;
+    margin:0px auto;
+}
+
+#header{
+    height:140px;
+    width:960px;
+}
+
+#nav{
+    height:30px;
+    width:960px;
+    margin-top:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+#nav ul li{
+    display:inline;
+    padding-right:20px;
+}
+
+#nav a{
+    text-decoration:none;
+    color:#E64043;
+}
+
+#nav a:hover{
+    color:#6cbde1;
+}
+
+#slider{
+    height:246px;
+    width:350px;
+    margin:0px auto;
+    margin-top:20px
+}
+
+

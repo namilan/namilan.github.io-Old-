@@ -2,7 +2,7 @@
 /*CSS Document */
 
 body{
-    background:#000000;
+    background:#ffffff;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Raleway', sans-serif;
 }
@@ -36,7 +36,7 @@ nav a:hover{
 
 h1{
     font-family: 'Raleway', sans-serif;
-    font-display:gray;
+    font-display:#000000;
     font-size:40px;
     font-weight:300;
     line-height:40px;

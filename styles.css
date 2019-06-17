@@ -45,4 +45,16 @@
     margin-top:20px
 }
 
+#caption{
+    height:50px;
+    width:960px;
+    margin-top:20px;
+}
+
+#h1{
+    font-size:40px;
+    font-weight:300;
+    line-height:40px;
+}
+
 

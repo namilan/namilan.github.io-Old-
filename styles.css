@@ -27,12 +27,12 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: rgb(121, 237, 245);
+    background-color: #73AAC4;
   }
   
   .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #000000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -46,7 +46,7 @@ body {
   
   .topnav a.active {
     background-color: #759AAB;
-    color: white;
+    color: black;
   }
 
   .name {

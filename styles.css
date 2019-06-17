@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
 
-body{
+/* body{
   background:#ecf0f1;
   font-family: 'Open Sans', sans-serif;
 }
@@ -18,7 +18,7 @@ b{
   font-size:25px;
   line-height:40px;
   display:inline-block;
-}
+} */
 
 #mySidenav a {
     position: absolute;
